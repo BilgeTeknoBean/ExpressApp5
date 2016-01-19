@@ -1,0 +1,14 @@
+{
+  "ids": {
+    "ManagerHost": 2,
+    "LoadBalancer": 3
+  },
+  "models": {
+    "ManagerHost": {
+      "88cc98a7-bb06-47ff-891b-3a98a4741e89": "{\"id\":\"88cc98a7-bb06-47ff-891b-3a98a4741e89\",\"host\":\"localhost\",\"port\":3141,\"actions\":[\"delete\",\"edit\"],\"protocol\":\"http\",\"created\":1453194130905,\"error\":{\"message\":\"connect ECONNREFUSED 127.0.0.1:3141\"},\"errorType\":\"connection\",\"app\":null,\"processes\":null,\"$$hashKey\":\"object:166\",\"isHostProblem\":true}"
+    },
+    "LoadBalancer": {
+      "1": "{\"protocol\":\"http\",\"host\":\"localhost\",\"port\":3141,\"id\":1}"
+    }
+  }
+}
